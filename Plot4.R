@@ -1,6 +1,10 @@
 # Coursera Exploratory Data Analysis week 1 peer reviewed assignment plot4
 # 10-29-2016
-
+#Data provided for the assignment (through the link within to assingment notes) was 
+#first downloaded into the working directory and then extracted from the zip file. 
+#R script was then used to open and subset the needed portion of the data for the 
+#assignment.
+    
 library(lubridate)
 
 # open data set (text file)... using only the the following dates 2007-2-01 and 2007-2-02
